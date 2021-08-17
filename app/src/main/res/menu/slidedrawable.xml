@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="none"
+        android:id="@+id/menu_bottom221">
+        <item
+            android:id="@+id/nav_home1"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="Profile"
+            />
+    </group>
+
+    <group
+        android:checkableBehavior="none"
+        android:id="@+id/menu_bottom22">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"
+        />
+    </group>
+    <group
+        android:checkableBehavior="none"
+        android:id="@+id/menu_bottom2">
+    <item
+        android:id="@+id/nav_heart1"
+        android:icon="@drawable/ic_restore_page_black_24dp"
+        android:title="Daily"
+        />
+    </group>
+    <group
+        android:checkableBehavior="none"
+        android:id="@+id/menu_bottom11">
+        <item android:id="@+id/upload"
+            android:title="Teacher Message"
+            android:icon="@drawable/ic_message_black_24dp"/>
+    </group>
+    <group
+        android:checkableBehavior="none"
+        android:id="@+id/menu_bottom12">
+        <item android:id="@+id/video"
+            android:title="Video History"
+            android:icon="@drawable/ic_history_black_24dp"/>
+    </group>
+    <group
+        android:checkableBehavior="none"
+        android:id="@+id/menu_bottom21111">
+        <item android:id="@+id/logout"
+            android:title="Logout"
+            android:icon="@drawable/ic_power_settings_new_black_24dp"
+            />
+    </group>
+    <group
+        android:checkableBehavior="none"
+        android:id="@+id/menu_bottom">
+        <item android:id="@+id/sell"
+            android:title=""
+           />
+    </group>
+</menu>
